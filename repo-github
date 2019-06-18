@@ -1,0 +1,18 @@
+https://github.com/bcampitelli/fj21.git
+
+…or create a new repository on the command line
+echo "# fj21" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/bcampitelli/fj21.git
+git push -u origin master
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/bcampitelli/fj21.git
+git push -u origin master
+
+
+wi-fi: caelum3bf4
+
+
